@@ -1,29 +1,17 @@
 # Práctica 1: "Modelo Entidad Relación"
 
 ## DAtos del Equipo
-* **Instituto:**
-* **Escuela:**
-* **Carrera:**
-* **Unidad de Aprendizaje:**
-* **Grupo:**
-* **Integrantes**
-* 
-* 
-* 
+* **Carrera:** Ingeniería en Sistemas Computacionales
+* **Unidad de Aprendizaje:** Base de Datos
+* **Grupo:** 3CV2
+* **Integrantes:**
+  * Garcia Castillo Mario, 2025630545
+  * Gonzáles Martínez Danaet Montserrath, 2025630554
+  * Islas Ramirez Diego, 2025630905
 
 ---
 
 ## Índice de la Práctica
-1. [Ejercicio 1: Control de versiones con Git y GitHub](#ejercicio-1-control-de-versiones-con-git-y-github)
-2. [Ejercicio 2: El sistema gestor en un contenedor: Docker](#ejercicio-2-el-sistema-gestor-en-un-contenedor-docker)
-3. [Ejercicio 3: Investigación - Qué es una base de datos](#ejercicio-3-investigación-qué-es-una-base-de-datos)
-4. [Ejercicio 4: Estado del arte - Tres artículos científicos](#ejercicio-4-estado-del-arte-tres-artículos-científicos)
-5. [Ejercicio 5: Caso de estudio y modelo entidad-relación](#ejercicio-5-caso-de-estudio-y-modelo-entidad-relación)
-
----
-
-## Contenido del Repositorio
-
 ### Ejercicio 1: Control de versiones con Git y GitHub
 * **Evidencias:** Puedes consultar las capturas de pantalla del historial del proyecto y el Pull Request en la carpeta correspondientes:
   * [Captura de Git Log](evidencias/git/git-log.png)
