@@ -20,8 +20,8 @@
 ### Ejercicio 2: El sistema gestor en un contenedor: Docker
 * **Configuración del Entorno:** [Archivo compose.yaml](entorno/compose.yaml)
 * **Evidencias:**
-  * [Captura de Conexión al Gestor](evidencias/docker/conexion.png)
-  * [Captura de Prueba de Persistencia](evidencias/docker/persistencia.png)
+  * [Captura de Conexión al Gestor](evidencias/git/conexion.png)
+  * [Captura de Prueba de Persistencia](evidencias/git/persistencia.png)
 
 ### Ejercicio 3: Investigación - Qué es una base de datos
 * **Documento:** [investigacion-bases-de-datos.pdf](docs/investigacion-bases-de-datos.pdf)
