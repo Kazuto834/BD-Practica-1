@@ -2,6 +2,8 @@
 # Ignora los datos de la base de datos
 **/pgdata/
 **/postgres-data
+data/
+**/data/
 *.sql
 *.dump
 
