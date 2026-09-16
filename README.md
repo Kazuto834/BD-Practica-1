@@ -13,15 +13,15 @@
 
 ## Índice de la Práctica
 ### Ejercicio 1: Control de versiones con Git y GitHub
-* **Evidencias:** Puedes consultar las capturas de pantalla del historial del proyecto y el Pull Request en la carpeta correspondientes:
+* **Evidencias:** Puedes consultar las capturas de pantalla del historial del proyecto y el Pull Request:
   * [Captura de Git Log](evidencias/git/git-log.png)
   * [Captura de Pull Request Fusionado](evidencias/git/pull-request.png)
 
 ### Ejercicio 2: El sistema gestor en un contenedor: Docker
 * **Configuración del Entorno:** [Archivo compose.yaml](entorno/compose.yaml)
-* **Evidencias:**
-  * [Captura de Conexión al Gestor](evidencias/git/conexion.png)
-  * [Captura de Prueba de Persistencia](evidencias/git/persistencia.png)
+* **Evidencias:** Puedes consultar las capturas de pantalla de la conexion con el SGDB y la persistencia del entrono:
+  * [Captura de Conexión al Gestor](evidencias/docker/conexion.png)
+  * [Captura de Prueba de Persistencia](evidencias/docker/persistencia.png)
 
 ### Ejercicio 3: Investigación - Qué es una base de datos
 * **Documento:** [investigacion-bases-de-datos.pdf](docs/investigacion-bases-de-datos.pdf)
