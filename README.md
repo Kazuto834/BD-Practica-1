@@ -13,13 +13,13 @@
 
 ## Índice de la Práctica
 ### Ejercicio 1: Control de versiones con Git y GitHub
-* **Documento:** [investigacion-Ejercicio-1](docs/investigacion-Ejercicio-1.pdf)
+* **Documento:** [Investigacion-Ejercicio-1](docs/Investigacion-Ejercicio-1.pdf)
 * **Evidencias:** Puedes consultar las capturas de pantalla del historial del proyecto y el Pull Request:
   * [Captura de Git Log](evidencias/git/git-log.png)
   * [Captura de Pull Request Fusionado](evidencias/git/pull-request.png)
 
 ### Ejercicio 2: El sistema gestor en un contenedor: Docker
-* **Documento:** [investigacion-Ejercicio-2](docs/investigacion-Ejercicio-2.pdf)
+* **Documento:** [Investigacion-Ejercicio-2](docs/Investigacion-Ejercicio-2.pdf)
 * **Configuración del Entorno:** [Archivo compose.yaml](entorno/compose.yaml)
 * **Evidencias:** Puedes consultar las capturas de pantalla de la conexion con el SGDB y la persistencia del entrono:
   * [Captura de Conexión al Gestor](evidencias/docker/conexion.png)
